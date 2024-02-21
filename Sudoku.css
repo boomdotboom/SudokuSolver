@@ -1,0 +1,31 @@
+table,tr,td{
+    border: 1px solid;
+}
+table{
+    border-collapse: collapse;
+    margin-left:525px;}
+.input{
+    align-self: center;
+    border-collapse: collapse;
+    width: 50px;
+    color: black;
+    background-color: gray;
+    padding-top:10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+tr{
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+body{
+    background-color: burlywood;
+}
+.press{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 700px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 150px;
+}
